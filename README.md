@@ -1,4 +1,4 @@
-![featured](https://user-images.githubusercontent.com/74796174/200678655-06f21f93-6580-48e9-bf42-226010392d50.png)
+![Screenshot-_18_](https://user-images.githubusercontent.com/74796174/200693203-ec371639-e172-4427-9ca1-2b469336b8e9.gif)
 <h1>Hi👋</h1>
 <p>REQUIREMENT👇: ORACLE-VM LINUX-CENTOS7  bashscript and etc.!</p>
 <h3 align="center">Vagrant and Linux Servers.</h3>
